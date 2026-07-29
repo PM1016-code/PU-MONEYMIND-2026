@@ -1,5 +1,3 @@
-# PU MoneyMind Website
+# PU MoneyMind Website v2.1
 
-อัปโหลด `index.html` และโฟลเดอร์ `assets` ไว้ที่ root ของ GitHub repository เดียวกัน
-
-GitHub Pages: Settings → Pages → Deploy from branch → main / root
+Ready for GitHub Pages. Keep `index.html` and `assets/` at the repository root.
