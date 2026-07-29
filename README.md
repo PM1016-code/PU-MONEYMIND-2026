@@ -1,1 +1,1 @@
-PU MoneyMind Website v2.1.3 — GitHub Pages ready. Updated original logo on black at 300% size, new hero photo, and revised TMC description.
+PU MoneyMind Website v2.1.4 — GitHub Pages ready. Includes original logo on black at 300% size, updated hero photo, revised TMC description, updated Student Story video, and current review gallery.
