@@ -1,11 +1,9 @@
-# PU MoneyMind v2.1.6
+# PU MoneyMind v2.1.7 — GitHub Pages
 
-GitHub Pages build.
+อัปเดต:
+- แก้โลโก้ Header ให้ใช้ PNG โปร่งใสจริง ไม่มีพื้นขาวทับ Header สีดำ
+- เพิ่ม Section Risk & Lot Size Calculator สำหรับ XAUUSD
+- เพิ่มเมนู “คำนวณ Lot” ถัดจาก FAQ
+- รองรับ Desktop และ Mobile
 
-Update: restored the original PU MoneyMind logo design on a black background and resized it to 200%.
-
-
-## v2.1.6
-- Replaced the header logo with the transparent cut-out PNG.
-- Removed the white/black image background from the logo container.
-- Increased the displayed logo size while keeping the black header.
+อัปโหลด `index.html`, `README.md` และโฟลเดอร์ `assets` ไปที่ root ของ GitHub Repository แล้ว Commit/Push
